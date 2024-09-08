@@ -1,0 +1,5 @@
+ /*
+        *   val presentableItemSmall: Size = Size(120.dp, 180.dp),
+    val presentableItemBig: Size = Size(160.dp, 240.dp),
+    val videoItem: Size = Size(200.dp, 110.dp)
+        * */

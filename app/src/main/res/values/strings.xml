@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TMDB Compose</string>
+    <string name="movies_more">more</string>
+    <string name="title_activity_home_componets">HomeComponets</string>
+    <string name="release_date">Release Date</string>
+    <string name="duration">Duration</string>
+    <string name="see_all">see all</string>
+    <string name="about_text">Modern Android app UI template built with Jetpack Compose, inspired by Material Design guidelines.</string>
+
+    <string name="nowPlaying">Now Playing</string>
+    <string name="popular">Popular Movies</string>
+    <string name="discover">Discover </string>
+    <string name="upcoming">Upcoming </string>
+    <string name="similar">Similar Movies </string>
+
+</resources>
